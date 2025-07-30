@@ -4,7 +4,7 @@ FROM ubuntu:latest
 # Set working directory
 WORKDIR /app
 
-# Copy necessary files into the container
+# Copy necessary files into the containerrr
 COPY . /app
 
 # Install dependencies (if required)
